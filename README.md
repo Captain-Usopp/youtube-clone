@@ -1,7 +1,7 @@
 # YouTube Clone
 
 A simple YouTube Page Clone built using only HTML5 and CSS3 as part of The Odin Project Challenge.
-It is a responsive website and viewed live at [__visit the site__](https://captain-usopp.github.io/youtube-clone/)
+It is a responsive website and can be viewed live at [__visit the site__](https://captain-usopp.github.io/youtube-clone/)
 
 ## Screen Capture
 ![Screen-Capture-YouTube-Clone-Desktop-View](/../main/images/youtube-clone-screen-capture.png?raw=true)
